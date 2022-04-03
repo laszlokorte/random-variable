@@ -1,6 +1,6 @@
 ![Screenshot of the app](preview.png)
 
-[Live Demo](https://static.laszlokorte.de/random-variable/)
+[Live Demo](https://static.laszlokorte.de/random-variable/) | [Short demo video](https://www.youtube.com/watch?v=UGjjtJiGywk)
 
 # Function applied to random variables
 
